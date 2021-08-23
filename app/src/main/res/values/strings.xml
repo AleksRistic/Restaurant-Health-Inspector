@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+
+    <resources>
+
+    <string name="app_name">cmpt276Project</string>
+
+    <string name="RestaurantList">Restaurants List</string>
+
+    <string name="title_activity_info">InfoActivity</string>
+
+    <string name="inspection_date_on_viol">Date: </string>
+
+    <string name="inspection_type_on_viol">Inspection Type</string>
+
+    <string name="hazard_on_viol">Hazard: </string>
+
+    <string name="hazard_level_on_viol">Hazard Level: </string>
+
+    <string name="critical_num_on_viol">Critical #</string>
+
+    <string name="non_critical_on_viol">Non-Critical #</string>
+
+    <string name="title_activity_violation">Violations</string>
+
+    <string name="map">Map</string>
+
+    <string name="inspection_report_on_download">Inspection Report</string>
+
+    <string name="restaurant_on_download">Restaurant</string>
+
+    <string name="waiting_on_restaurant_download">Waiting</string>
+
+    <string name="waiting_on_inspection_download">Waiting</string>
+
+    <string name="latest_inspection_hazard_level_on_popup">Latest Inspection Hazard Level</string>
+
+    <string name="critical_level_on_voilation">Critical Level: </string>
+
+    <string name="hazard_level_on_restaurantlist">Hazard Level: </string>
+
+    <string name="issues_found_on_restaurantlist">Issues Found: </string>
+
+    <string name="no_violations">No Violations on Record</string>
+
+    <string name="issues_found">Issues Found: </string>
+
+    <string name="critical_issues_found">Critical Issues Found: </string>
+
+    <string name="non_critical_issues_found">Non-Critical Issues Found: </string>
+
+    <string name="welcome">WELCOME</string>
+
+    <string name="inspection_type">Inspection Type: </string>
+
+    <string name="inspection_List">Inspection List</string>
+
+    <string name="no_network">No Network</string>
+
+    <string name="internet_needed">Need to be connected to the Internet for necessary data download</string>
+
+    <string name="retry">Retry</string>
+
+    <string name="network_needed">Currently not connected to the network, update check failed</string>
+
+    <string name="permissions_needed">The following necessary permissions are required</string>
+
+    <string name="location_needed">Location data permissions</string>
+
+    <string name="allow">Allow</string>
+
+    <string name="first_run">First run, data downloading</string>
+
+    <string name="updates_to_download">There are updates to download</string>
+
+    <string name="want_to_download">Do you want to start downloading now? It is currently in WiFi connection. Downloading does not consume traffic</string>
+
+    <string name="data_traffic">Data traffic is in use. Do you want to start downloading now</string>
+
+    <string name="download">Download</string>
+
+    <string name="download_new_data">Downloading new data for you</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="downloading_updates">Downloading Updates</string>
+
+    <string name="ask_to_terminate">Do you want to terminate the download?</string>
+
+    <string name="terminate">Terminate</string>
+
+    <string name="update_complete">Update Complete</string>
+
+    <string name="update_failed">Update Failed</string>
+
+    <string name="permission_rejected"> Permission application rejected, application failed to start, please set it manually</string>
+
+    <string name="map_req_denial">You can not make map requests</string>
+
+    <string name="current_location_failure">Unable to get current location</string>
+
+    <string name="marker_failure">Error in placing map markers</string>
+
+    <string name="address">ADDRESS: </string>
+
+    <string name="gps_address">GPS ADDRESS: </string>
+
+    <string name="have_no_data">Have no data</string>
+
+    <string name="no_inspections">No Inspections</string>
+
+    <string name="no_violations_found">No Violations Found</string>
+
+    <string name="error">Error</string>
+
+    <string name="app_start_failure">Application start failure</string>
+
+    <string name="no_data">Have no data</string>
+
+    <string name="has_targeted">Has Targeted</string>
+
+    <string name="violation_description_equipment">Equipment not in good working order</string>
+
+    <string name="violation_description_pest">Premises not free of pests</string>
+
+    <string name="violation_description_foodsafe">Failing to have FOODSAFE</string>
+
+    <string name="violation_description_food">Food unprotected from contaminants</string>
+
+    <string name="violation_description_hygiene">Lack of good hygiene</string>
+
+    <string name="violation_description_wash">Improper hand washing</string>
+
+    <string name="violation_description_maintained">Premises not maintained</string>
+
+    <string name="violation_description_chemicals">Chemicals stored improperly</string>
+
+    <string name="new_inspections_fav_list">New Inspections of Your Favourite Restaurants!</string>
+
+    <string name="menu_list">List View</string>
+
+    <string name="menu_map">Map View</string>
+
+    <string name="check_list">Check List</string>
+
+    <string name="no_changes_to_fav_list">No New Inspections For Your Favourite Restaurants</string>
+
+    <string name="skip">Skip</string>
+
+    <string name="restaurant_on_download_prompt">Restaurant</string>
+
+    <string name="inspection_report_on_download_prompt">Inspection Report</string>
+
+    <string name="waiting_on_download_prompt_inspections">Waiting</string>
+
+    <string name="waiting_on_download_prompt_restaurants">Waiting</string>
+
+    <string name="textview_on_download_prompt">TextView</string>
+
+    <string name="latest_inspection_hazard_level_marker_popup">Latest Inspection Hazard Level</string>
+
+    <string name="overFiveViolations">Number of violations in the last year：5+</string>
+
+    <string name="search">Search</string>
+    <string name="search_filter">Search Filter</string>
+    <string name="show_fav_only">Show favourites only</string>
+    <string name="max_hazard_allowed">Maximum hazard level allowed: </string>
+    <string name="min_num_viol_last_year">Minimum number of violations within last year: </string>
+    <string name="ok">ok</string>
+    <string name="choose_hazard_level">Choose Hazard Level</string>
+    <string-array name="hazard_levels">
+
+    <item>High</item>
+
+    <item>Medium</item>
+
+    <item>Low</item>
+
+</string-array>
+
+</resources>

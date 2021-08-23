@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="83dp"
+        android:layout_height="94dp"
+        android:background="#CEFFFFFF"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/company_logo_on_marker"
+            android:layout_width="72dp"
+            android:layout_height="66dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="20dp"
+            app:srcCompat="@drawable/generic_restaurant" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="227dp"
+        android:layout_height="94dp"
+        android:background="#CEFFFFFF"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/title_company"
+            android:layout_width="215dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:padding="2dp"
+            android:text="Medium Text"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#4d4d4d"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/company_address_on_marker"
+            android:layout_width="209dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/hazard_level_text"
+            android:layout_width="235dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:text="@string/latest_inspection_hazard_level_on_popup" />
+
+        <TextView
+            android:id="@+id/hazard_level_on_marker"
+            android:layout_width="209dp"
+            android:layout_height="9dp"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/nodanger"
+            android:textColor="@color/noDanger" />
+
+    </LinearLayout>
+
+</LinearLayout>

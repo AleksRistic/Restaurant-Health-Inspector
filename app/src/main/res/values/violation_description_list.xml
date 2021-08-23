@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="violation_description_list">
+        <item>"Equipment not in good working order"</item>
+        <item>"Premises not free of pests"</item>
+        <item>"Failing to have FOODSAFE"</item>
+        <item>"Food unprotected from contaminants"</item>
+        <item>"Lack of good hygiene"</item>
+        <item>"Improper hand washing"</item>
+        <item>"Premises not maintained"</item>
+        <item>"Chemicals stored improperly"</item>
+
+
+    </string-array>
+</resources>
